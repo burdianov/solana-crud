@@ -1,0 +1,11 @@
+npx create-solana-dapp
+
+cd app-name
+npm install
+
+npm run dev
+npm run anchor build | test | localnet | deploy
+
+
+https://www.youtube.com/watch?v=cW-3jGWq1IE&t=65s
+min. 10
